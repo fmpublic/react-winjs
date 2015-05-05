@@ -44,6 +44,7 @@
 //   navigation on "click" will also have to workaround it (e.g. NavBarCommand).
 
 var React = require('react/addons');
+var WinJS = require('winjs');
 
 var ReactWinJS = {};
 
