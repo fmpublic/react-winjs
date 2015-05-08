@@ -15,5 +15,9 @@
     "type": "git",
     "url": "https://github.com/winjs/react-winjs"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=0.12.2 <=0.13.x"
+  }
 }
+
